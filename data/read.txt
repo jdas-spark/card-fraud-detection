@@ -1,1 +1,6 @@
+The datasets used in this project:
 
+Synthetic card transaction dataset made manually for training purpose
+
+Original card transaction dataset
+Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
