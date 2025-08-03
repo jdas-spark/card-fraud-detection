@@ -35,6 +35,11 @@ Recall is    : 71.4571%
 
 <img width="787" height="192" alt="image" src="https://github.com/user-attachments/assets/d5433ce6-5843-4b58-b0a8-d2c82ca1d56e" />
 
+#### XGBoost Classification Results on Original dataset
+Accuracy is  : 39.9295%
+Precision is : 0.2020%
+Recall is    : 70.3252%
+
 ### Conclusions
 We can see from the results of the model when it uses the real credit card fraud dataset, that while it does manage to get the 492 fraudulent transactions classified as fraud (recall = 1), it ends up also classifying most of the real transactions as fraud too (precision = 0.001). This high false positive rate ends up reducing the overall accuracy as well as the area under precision-recall curve (AUPRC). 
 
